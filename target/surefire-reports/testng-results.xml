@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19209" started-at="2019-12-25T03:32:13Z" finished-at="2019-12-25T03:32:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19209" started-at="2019-12-25T03:32:13Z" finished-at="2019-12-25T03:32:32Z">
+      <class name="E2ETestCases.HomePage">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:E2ETestCases.HomePage@3b0090a4]" name="openUrl" is-config="true" duration-ms="14715" started-at="2019-12-25T03:32:13Z" finished-at="2019-12-25T03:32:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="loginClick()[pri:0, instance:E2ETestCases.HomePage@3b0090a4]" name="loginClick" duration-ms="4425" started-at="2019-12-25T03:32:27Z" finished-at="2019-12-25T03:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginClick -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:E2ETestCases.HomePage@3b0090a4]" name="CloseBrowser" is-config="true" duration-ms="58" started-at="2019-12-25T03:32:32Z" finished-at="2019-12-25T03:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- E2ETestCases.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
